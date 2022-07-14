@@ -1,0 +1,15 @@
+name = elFinder BUEditor integration
+description = Adding elFinder to BUEditor Insert Image dialog
+package = User interface
+core = 7.x
+project status url = https://drupal-elfinder.sourceforge.io/release-history.php
+
+dependencies[] = bueditor
+dependencies[] = elfinder
+
+; Information added by packaging script
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "elfinder"
+datestamp = "1591449874"
+
